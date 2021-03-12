@@ -1,14 +1,14 @@
-git-flow
-git-flow
-git-flow
-git-flow
-git-flow
-git-flow
-git-flow
-git-flow
-git-flow
-git-flow
-git-flow
-git-flow
-git-flow
-git-flow
+git-flow v1.0.1
+git-flow v1.0.1
+git-flow v1.0.1
+git-flow v1.0.1
+git-flow v1.0.1
+git-flow v1.0.1
+git-flow v1.0.1
+git-flow v1.0.1
+git-flow v1.0.1
+git-flow v1.0.1
+git-flow v1.0.1
+git-flow v1.0.1
+git-flow v1.0.1
+git-flow v1.0.1
